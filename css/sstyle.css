@@ -1,0 +1,110 @@
+body {
+  background-color:#fcf8f3 ;
+  text-align: center;
+  margin: 0 0;
+}
+.myimage{
+  width: 15%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.top-container {
+  padding-bottom: 10%;
+  background-color: #1E0000;
+}
+
+.top-text {
+  margin-top: 0;
+  padding-top: 170px;
+  line-height: 1;
+  font-size: 5.625rem;
+  font-family: ;
+  color: white;
+}
+
+.intro {
+  padding: 10px 500px 40px 500px;
+}
+
+.amil {
+  width: 30%;
+}
+
+/* skill */
+
+.text{
+  font-size: 1.2rem;
+  padding: 8px 0 5px 0;
+}
+h2 {
+  font-size: 1.5rem;
+  color: #9b3737;
+}
+p{
+  font-size: 1rem;
+}
+
+.block{
+  padding: 5% 5% 0 5%;
+}
+.icon{
+  color:#9b3737;
+  padding-bottom: 10px;
+}
+.icon:hover{
+  color:#ffb6b6;
+}
+.skills{
+  padding: 50px 7% 0% 7%;
+}
+.row-icon{
+  padding: 50px 50px;
+}
+
+/* second section */
+.mydream{
+  margin:auto;
+  padding-bottom:20px;
+  padding-top: 8px;
+  width: 35%;
+}
+.dream{
+  padding-top: 20px;
+}
+
+/* third section */
+#testimonials {
+  background-color: #1E0000;
+  color: white;
+  margin-top: 90px;
+}
+
+.testimonial-text {
+  font-size: 2.5rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.carousel-item{
+  padding: 100px 0;
+}
+/* footer */
+
+#footer{
+  background-color: #fff;
+  color: black ;
+  padding: 70px 0;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+hr{
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
